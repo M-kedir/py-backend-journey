@@ -1,0 +1,3 @@
+# My Python Backend Journey
+
+This is a project folder I used to learn python and sqlite. It contains a simple command line task manager built with python and sqlite. The project is organized in a way that allows me to easily add new features and functionality as I learn more about python and sqlite. The project is also a great way to practice my coding skills and learn how to work with databases in python.
